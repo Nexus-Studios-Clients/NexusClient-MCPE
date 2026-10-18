@@ -5,3 +5,5 @@ já vem com Servers e Shaders!
 entre no site do client=]
 
 https://nexusmcpe.netlify.app/
+Discord 
+https://discord.gg/t5dHV4xXC
