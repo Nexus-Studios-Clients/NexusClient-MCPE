@@ -7,3 +7,5 @@ entre no site do client=]
 https://nexusmcpe.netlify.app/
 Discord 
 https://discord.gg/t5dHV4xXC
+novo site:
+https://nexusclientmcpe.netlify.app
