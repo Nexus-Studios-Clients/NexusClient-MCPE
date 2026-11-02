@@ -8,7 +8,7 @@ Já vem com Servers e Shaders!
 ---
 
 ### Preview do Client:
-![Nexus Client Preview]()
+![Nexus Client Preview](https://github.com/Nexus-Studios-Clients/NexusClient-MCPE/blob/main/Screenshot_2026-11-02-00-26-43-003_com.mojang.minecraf.png)
 
 ---
 
