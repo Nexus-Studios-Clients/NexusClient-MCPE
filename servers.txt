@@ -2,8 +2,6 @@
 2:§bPlay§aVerse§7:pvmg.blazebr.xyz:19138
 3:nexus:nexusbriz.cowdie.com:20814
 4:pixel:pixelgames.blazebr.xyz:25808
-5:briza:BrizaSky.sytes.net:26033
-6:stw:stwmcpebr.ddns.net:25986
-7:burst:Burst.ddns.net:25590
-8:8:comm-01.eu-central.sodiumnodes.org:10256
-9:Superland:SuperLandCiTy.ddns.net:25575
+5:stw:stwmcpebr.ddns.net:25986
+6:8:comm-01.eu-central.sodiumnodes.org:10256
+7:Superland:SuperLandCiTy.ddns.net:25575
