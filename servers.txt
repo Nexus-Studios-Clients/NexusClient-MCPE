@@ -1,7 +1,6 @@
 1:Iakuna:iakunamc.com:19132
 2:§bPlay§aVerse§7:pvmg.blazebr.xyz:19138
-3:nexus:nexusbriz.cowdie.com:20814
-4:pixel:pixelgames.blazebr.xyz:25808
-5:stw:stwmcpebr.ddns.net:25986
-6:8:comm-01.eu-central.sodiumnodes.org:10256
-7:Superland:SuperLandCiTy.ddns.net:25575
+3:pixel:pixelgames.blazebr.xyz:25808
+4:stw:stwmcpebr.ddns.net:25986
+5:8:comm-01.eu-central.sodiumnodes.org:10256
+5:Superland:SuperLandCiTy.ddns.net:25575
